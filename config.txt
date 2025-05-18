@@ -1,0 +1,9 @@
+
+{
+"channelList": [
+{
+"url": "https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live",
+"name": "Euronews"
+}
+]
+}
