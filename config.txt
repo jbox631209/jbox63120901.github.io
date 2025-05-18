@@ -1,27 +1,31 @@
 {
   "channelList": [
     {
-      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS新聞"
+      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
+      "name": "TVBS新聞",
+"header": "Referer:
+https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv051",
       "name": "台視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
-      "name": "民視新聞"
+      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
+      "name": "民視新聞",
+      "header": "Referer:
+https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
       "name": "中視新聞"
     },
     {
-      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009",
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "url": "https://www.ofiii.com/channel/watch/ofiii13 no",
       "name": "公共電視"
     },
     {
@@ -29,7 +33,7 @@
       "name": "東森新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv052",
       "name": "華視新聞"
     },
     {
@@ -41,7 +45,7 @@
       "name": "中天亞洲台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn14",
       "name": "寰宇新聞"
     },
     {
@@ -57,7 +61,7 @@
       "name": "Bloomberg Business News"
     },
     {
-      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "url": "https://www.ofiii.com/channel/watch/iNEWS",
       "name": "三立 iNEWS 新聞"
     },
     {
