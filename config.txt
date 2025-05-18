@@ -1,10 +1,9 @@
 {
   "channelList": [
     {
-      "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
+      "url": "https://aka03p.akamaized.net/litv/fet005.smil/playlist.m3u8",
       "name": "TVBS新聞",
-"header": "Referer:
-https://fetfriday.svc.litv.tv/"
+"header":"Referer:https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv051",
@@ -13,8 +12,7 @@ https://fetfriday.svc.litv.tv/"
     {
       "url": "https://aka03p.akamaized.net/litv/fet002.smil/playlist.m3u8",
       "name": "民視新聞",
-      "header": "Referer:
-https://fetfriday.svc.litv.tv/"
+      "header": "Referer:https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv074",
